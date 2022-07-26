@@ -12,4 +12,8 @@ Demo purpose
 
 ## Deployment
 
+Demo deployment
+
 ## How to contribute
+
+Demo contribute
