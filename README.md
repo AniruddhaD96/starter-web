@@ -16,7 +16,7 @@ Demo deployment
 
 ## How to contribute
 
-Demo contribute
+Please fork this repository
 
 ## Copyright
 
