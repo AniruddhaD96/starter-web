@@ -17,3 +17,7 @@ Demo deployment
 ## How to contribute
 
 Demo contribute
+
+## Copyright
+
+Demo copyright
